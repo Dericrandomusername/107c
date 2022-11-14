@@ -1,0 +1,36 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+background-color: aqua;
+color:black;
+}
+body{
+    background: linear-gradient(lightgreen 0%, lightyellow 100%);
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+
+}
+h4{
+    color:darkgray;
+}
+#camera{
+    width: 500px;
+    height:400px;
+    border:2px solid coral;
+}
+img{
+    width: 500px;
+    height: 400px;
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: 0 6px 8px 0 red;
+
+}
+img:hover{
+    border-radius:140px;
+}
